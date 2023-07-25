@@ -1,0 +1,10 @@
+* cl-mssql
+
+cl-mssql
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/archimag/cl-mssql.git   |
+| commit  | 045602a  |
+| systems | cl-mssql |
+|---------+-------------------------------------------|
+
