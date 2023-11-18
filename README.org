@@ -4,6 +4,6 @@ cl-mssql
 
 |---------+----------------------------------------------|
 | source  | git:https://github.com/archimag/cl-mssql.git |
-| commit  | 045602a                                      |
+| commit  | 4a3e6ea                                      |
 | systems | mssql                                        |
 |---------+----------------------------------------------|
